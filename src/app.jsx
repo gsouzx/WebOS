@@ -6,7 +6,7 @@ import SettingsApp from './apps/SettingsApp'
 import BrowserApp from './apps/BrowserApp'
 import MusicApp from './apps/MusicApp'
 import ExplorerApp from './apps/ExplorerApp'
-import Window from './Window'
+import Window from './window'
 
 const WALLPAPERS = [
   'linear-gradient(135deg,#0f2027,#203a43,#2c5364)',
